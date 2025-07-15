@@ -1,0 +1,48 @@
+## Ignore Visual Studio cache
+.vs/
+
+## Ignore build outputs
+bin/
+obj/
+
+## Ignore user-specific Visual Studio files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+## Ignore NuGet packages (if restored via restore)
+*.nupkg
+packages/
+
+## Ignore temporary files
+*.tmp
+*.log
+
+
+
+
+## Ignore secrets
+secrets.json
+
+## Ignore publish profiles
+Properties/PublishProfiles/
+
+## Ignore node_modules if you have frontend code
+node_modules/
+
+
+
+## Ignore coverage reports
+coverage/
+*.coverage
+*.coveragexml
+
+## Ignore Mac OS & Windows specific files
+.DS_Store
+Thumbs.db
+
+
+
+## Ignore env files
+.env
